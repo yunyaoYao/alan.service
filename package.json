@@ -1,0 +1,19 @@
+{
+  "name": "alan.service",
+  "version": "1.0.0",
+  "description": "This is a service file for AngularJS project ALAN",
+  "main": "alan.service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunyaoYao/alan.service.git"
+  },
+  "author": "Yao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yunyaoYao/alan.service/issues"
+  },
+  "homepage": "https://github.com/yunyaoYao/alan.service#readme"
+}
