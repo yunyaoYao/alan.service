@@ -1,6 +1,6 @@
 {
   "name": "alan.service",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is a service file for AngularJS project ALAN",
   "main": "alan.service.js",
   "scripts": {
